@@ -1,5 +1,5 @@
 # Video Chat App
-The React Video Chat Application. Using WebRTC to  use webRTC to be able to make realtime video calls. Used to chat, exchange work between two people easily and quickly. This is my learning project.
+The React Video Chat Application. Using WebRTC to be able to make realtime video calls. Used to chat, exchange work between two people easily and quickly. This is my learning project.
 ## Deploy app [here](https://video-chat-demo-app.vercel.app/)
 ## Some images about web
 <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/musicupload-7dde0.appspot.com/o/Image%2Fvideocreatecall.png?alt=media&token=c5649632-bace-4b9e-9600-9ada51cc9513">
